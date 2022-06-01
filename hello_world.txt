@@ -1,1 +1,2 @@
 Just a couple lines of text, mainly to see what this does with respect to staging areas.
+Adding a new line so I can try out using VSCode to write commit messages.
